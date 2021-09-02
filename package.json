@@ -1,0 +1,22 @@
+{
+  "name": "my-typescript-web-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiiyan/my-typescript-web-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiiyan/my-typescript-web-page/issues"
+  },
+  "homepage": "https://github.com/shiiyan/my-typescript-web-page#readme",
+  "dependencies": {
+    "typescript": "^4.4.2"
+  }
+}
